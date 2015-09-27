@@ -1,4 +1,4 @@
-# GetAndCleanDataProject
+# GettingAndCleaningData
 Getting and cleaning data course project
 
 GETTING AND CLEANING DATA COURSE PROJECT
@@ -27,7 +27,7 @@ iii.	README.md: this file
 iv.	run_analysis.R: R script to transform raw data set into a tidy one
 
 Steps taken to accomplish this project:
-i.	clone this repository: git clone https://github.com/Anizah/GetAndCleanDataProject
+i.	clone this repository: git clone https://github.com/nmood/GetttingAndCleaningData
 ii.	download compressed raw data
 iii.	unzip raw data and copy the directory UCI HAR Dataset to data folder
 iv.	open a R console and set the working directory to the repository root (use setwd())
